@@ -515,14 +515,14 @@ img {
 }
 
 /* For tall screens on mobiles and desktop*/
-@media screen and (min-height: 718px) {
+@media screen and (min-height: 721px) {
   .home {
     &__container {
-      height: 639px;
+      height: 640px;
     }
     &__img {
-      width: 498px;
-      right: 22%;
+      width: 500px;
+      right: 24%;
     }
   }
 }
